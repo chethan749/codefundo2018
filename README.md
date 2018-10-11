@@ -2,12 +2,12 @@
 
 Disaster relief refers to the process of responding to a catastrophic situation, providing humanitarian aid to persons and communities who have suffered from some form of disaster. It involves dealing with and avoiding risks and preparing, supporting, and rebuilding society when natural or human-made disasters occur. It requires large-scale communication between parties that can provide support when and where required and the parties that need this.
 
-> Issue:
-<hr/>
+## Issue:
+
 During the occurence of disasters, there is a lot of chaos and panic among the victims. Resources are scarce and basic commodities like drinking water and food must reach the victims as soon as possible. This requires knowledge of the places where people are affected the most so that rescuers and volunteers may focus their efforts accordingly to achieve optimal resource management.
 
-> Solution:
-<hr/>
+## Solution:
+
 The proposed solution aims to reduce chaos among the affected people by providing them with initial guidance as to what steps they proceed so that they should take in order to get to safety. A dashboard is designed for the rescue organizations so that data from various sources is compiled and shown. Using such data, these organizations can also plan their activities better. The user may also use text to convey urgent needs that need to be addressed at his location, through the app. The system is designed to work in real-time and aims to smoothen rescue operations to an extent, so that time and resources are utilized most optimally resulting in saving as many lives as possible. The implementation of idea is elaborated as follows:
 - Using this app, victims may send an alert which consists of their current location as well as a brief description of the disaster so that the rescue process may commence immediately.
 - The app can forward requests to or guide the rescue/relief organisations based on proximity, suitability and availability of the right monetary, human or other resources that are required to tackle the situation with dispatch so that a significant number of human lives can be saved.
